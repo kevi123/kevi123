@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kevi123
+- 👋 Hi, I’m @kevi123 or known IRL as Kevin Hinojosa.
 - 👀 I’m interested in front end development and frameworks.
 - 🌱 I’m currently learning how to apply web development skills to digital marketing
 - 💞️ I’m looking to collaborate on fun projects that involve HTML, CSS or JS.
